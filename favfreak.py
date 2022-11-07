@@ -142,6 +142,7 @@ if __name__ == "__main__":
             2109473187:"Huawei – Claro",
             552592949:"ASUS AiCloud",
             631108382:"SonicWALL",
+            -2012355198:"SonicWall (bashbug)",
             708578229:"Google",
             -134375033:"Plesk",
             2019488876:"Dahua Storm (IP Camera)",
